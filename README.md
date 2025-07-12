@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m a Public Health Physician, Researcher, Data Scientist, and Certified Lifestyle Medicine Practitioner with over 30 years of clinical and leadership experience. My work is rooted in bridging the gap between healthcare systems and underserved communities, and I bring a unique blend of science, empathy, and data to the table.
+I’m a Public Health Consultant, Researcher, Data Scientist, and Certified Lifestyle Medicine Practitioner with over 30 years of clinical and leadership experience. My work is rooted in bridging the gap between healthcare systems and underserved communities, and I bring a unique blend of science, empathy, and data to the table.
 
 ---
 
@@ -36,7 +36,7 @@ I’m a Public Health Physician, Researcher, Data Scientist, and Certified Lifes
 
 ## 💬 Ask me about:
 - Applying **behavioral science** to health system challenges.
-- Designing health interventions that actually stick in real-world rural settings.
+- Designing health interventions that stick in real-world rural settings.
 - How **lifestyle medicine** can prevent and even reverse conditions like type 2 diabetes and hypertension.
 - Transitioning from clinical practice into **data science** and **health analytics**.
 
@@ -63,7 +63,7 @@ He / Him / His
 ---
 
 ## ⚡ Fun fact:
-I’m a strong believer in the power of food, movement, and mindset. I’ve seen lifestyle changes outperform medication when people are empowered with the right tools—and I’m on a mission to spread that knowledge.
+I’m a strong believer in the power of food, movement, and mindset. I’ve seen lifestyle changes outperform medication when people are empowered with the right tools, and I’m on a mission to spread that knowledge.
 
 ---
 
